@@ -45,8 +45,11 @@ git commit
 
 커밋 작성후 esc를 누르고 :wq를 하여 저장합니다.
 
-- 원격 저장소에 작업한 브랜치를 올리기  
-  git push origin <브랜치 이름>
+- 원격 저장소에 작업한 브랜치를 올리기
+
+```git
+git push origin <브랜치 이름>
+```
 
 - pull request 하기  
    ![image](https://user-images.githubusercontent.com/58525009/116854307-73701680-ac32-11eb-8a97-38125662837b.png)  
